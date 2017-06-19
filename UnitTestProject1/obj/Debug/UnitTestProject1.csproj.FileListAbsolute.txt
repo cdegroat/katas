@@ -1,0 +1,14 @@
+C:\Projects\Katas\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\Katas\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\Katas\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\Katas\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Projects\Katas\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Projects\Katas\UnitTestProject1\bin\Debug\ClassLibrary1.dll
+C:\Projects\Katas\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Projects\Katas\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Projects\Katas\UnitTestProject1\bin\Debug\ClassLibrary1.pdb
+C:\Projects\Katas\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Projects\Katas\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Projects\Katas\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Projects\Katas\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Projects\Katas\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

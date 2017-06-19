@@ -1,0 +1,7 @@
+C:\Projects\Katas\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.deps.json
+C:\Projects\Katas\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.dll
+C:\Projects\Katas\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.pdb
+C:\Projects\Katas\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Projects\Katas\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.AssemblyInfo.cs
+C:\Projects\Katas\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.dll
+C:\Projects\Katas\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.pdb
